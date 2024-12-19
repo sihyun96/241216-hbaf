@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.841d0a1d.css",
+    "main.js": "/static/js/main.88009c1e.js",
+    "static/media/Pretendard-Black.subset.woff2": "/static/media/Pretendard-Black.subset.caa29603c364423e73de.woff2",
+    "static/media/Pretendard-ExtraBold.subset.woff2": "/static/media/Pretendard-ExtraBold.subset.ef8691b3175c491831c9.woff2",
+    "static/media/Pretendard-Bold.subset.woff2": "/static/media/Pretendard-Bold.subset.a5ccc8f78b68ba6de99a.woff2",
+    "static/media/Pretendard-SemiBold.subset.woff2": "/static/media/Pretendard-SemiBold.subset.c50116c0682fbf0defde.woff2",
+    "static/media/Pretendard-Medium.subset.woff2": "/static/media/Pretendard-Medium.subset.f9eb757e995004861d66.woff2",
+    "static/media/Pretendard-Light.subset.woff2": "/static/media/Pretendard-Light.subset.30ed3bc57424fa8d166f.woff2",
+    "static/media/Pretendard-Regular.subset.woff2": "/static/media/Pretendard-Regular.subset.e0a855e501f761b58aa8.woff2",
+    "static/media/Pretendard-ExtraLight.subset.woff2": "/static/media/Pretendard-ExtraLight.subset.efbe2ffcea89d7a5bcf6.woff2",
+    "static/media/Pretendard-Thin.subset.woff2": "/static/media/Pretendard-Thin.subset.24952e0aab525b73031b.woff2",
+    "index.html": "/index.html",
+    "main.841d0a1d.css.map": "/static/css/main.841d0a1d.css.map",
+    "main.88009c1e.js.map": "/static/js/main.88009c1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.841d0a1d.css",
+    "static/js/main.88009c1e.js"
+  ]
+}
